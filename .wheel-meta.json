@@ -1,0 +1,22 @@
+{
+  "wheel_id": 467,
+  "structure": "umbrella",
+  "slug": "goldcoastretainingwall-153",
+  "project": "retaining-walls-gold-coast-signs-you-need-e7be82627084c9a4cbd61",
+  "parent_t1_ref": "goldcoastretainingwall-008",
+  "node_role": "buffer",
+  "money_target": "goldcoastretainingwall.au",
+  "primary_kw": "retaining walls gold coast signs you need",
+  "intended_url": "http://retaining-walls-gold-coast-signs-you-need-e7be82627084c9a4cbd61.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "2ddc0cf857534bbc",
+  "links": [
+    {
+      "target_url": "https://retaining-walls-gold-coast-goldcoastretainingwall-008-2f6e85.gitlab.io/",
+      "anchor": "https://retaining-walls-gold-coast-goldcoastretainingwall-008-2f6e85.gitlab.io/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
